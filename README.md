@@ -1,1 +1,1 @@
-# Free_Energy_Principle
+# Free Energy Principle
